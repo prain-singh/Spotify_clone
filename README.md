@@ -1,20 +1,43 @@
-<<<<<<< HEAD
-# React + Vite
+# 🎵 Spotify Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern Spotify Clone built using React.js and Vite.
+This project replicates the core features of Spotify, including
+music browsing, playlist management, and an interactive music player.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🎧 Modern Spotify-inspired user interface
+- 🎵 Browse and explore music
+- ▶️ Play and pause songs
+- ⏭️ Next and previous track controls
+- 🔊 Music player interface
+- 📱 Responsive design
+- 🎨 Clean and interactive UI
+- ⚡ Fast development using Vite
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Git & GitHub
 
-## Expanding the Oxlint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
-=======
-# Spotify_clone
->>>>>>> 0be8141408ddd3dcbf53c2f7b5911c278087eede
+```text
+Spotify_clone/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
